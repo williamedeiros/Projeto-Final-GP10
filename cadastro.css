@@ -1,0 +1,11 @@
+a, button {
+    width: 150px;
+}
+
+.titulo {
+    width: 150px;
+}
+
+.fixed-bottom {
+    height: 50px
+}
